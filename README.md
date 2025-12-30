@@ -1,5 +1,3 @@
-
-```markdown
 # 📝 Evolution of Todo — Phase I  
 ### In-Memory Python CLI Application (Spec-Driven Development)
 
