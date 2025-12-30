@@ -122,7 +122,7 @@ uv sync
 ### 4️⃣ Run the CLI App
 
 ```powershell
-python src/main.py
+python main.py
 ```
 
 ---
